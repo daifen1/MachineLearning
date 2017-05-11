@@ -1,4 +1,4 @@
-# 机器学习资源 Machine learning
+﻿# 机器学习资源 Machine learning
 
 **致力于分享最新最全面的机器学习资料，欢迎你成为贡献者!**
 
@@ -74,7 +74,8 @@
 http://ddl.escience.cn/f/IwWE
 
 - ### 入门读物 [The Elements of Statistical Learning(英文第二版),The Elements of Statistical Learning.pdf](http://ddl.escience.cn/ff/emZH)
-
+- ### 最优化导论[An Introduction to Optimization (中文第四版)An Introduction to Optimization.pdf]http://ddl.escience.cn/pan/preview?path=%2Fbooks%2F%E6%9C%80%E4%BC%98%E5%8C%96%E5%AF%BC%E8%AE%BA.pdf
+- ### 神经网络与机器学习[Neural NetWorks and learning Machine(中文第三版)Neural NetWorks and learning Machine.pdf](http://ddl.escience.cn/pan/preview?path=%2Fbooks%2F%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.pdf)
 ```
 利用Python进行数据分析.azw3
 跟老齐学Python：从入门到精通.azw3
